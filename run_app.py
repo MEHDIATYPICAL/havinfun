@@ -505,7 +505,7 @@ def main():
     # Animated header
     st.markdown("""
     <div class="main-header">
-        <h1>💰 Donation Reconciliation Tool</h1>
+        <h1> Donation Reconciliation Tool</h1>
         <p>Compare monthly Excel totals with daily PDF records</p>
         <div class="tooltip">
             <span style="font-size: 1.2rem;">ℹ️</span>
@@ -930,8 +930,8 @@ def main():
     st.markdown("---")
     st.markdown("""
     <div style="text-align: center; padding: 2rem; color: #64748b; font-size: 0.9rem;">
-        <p>💰 Donation Reconciliation Tool v2.0 | Built with ❤️ using Streamlit</p>
-        <p>🔒 Your data is processed locally and never stored on our servers</p>
+        <p> Donation Reconciliation Tool v2.0 | Built using Streamlit</p>
+        <p> Your data is processed locally and never stored on our servers</p>
     </div>
     """, unsafe_allow_html=True)
 
